@@ -1,0 +1,1 @@
+# Simple Django auth example
